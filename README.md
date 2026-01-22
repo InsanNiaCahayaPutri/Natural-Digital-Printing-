@@ -2,6 +2,12 @@
 
 # Deskripsi Projek
 Proyek ini merupakan tugas mata kuliah Pemrograman Basis Data yang bertujuan untuk merancang dan mengimplementasikan basis data transaksi pada usaha Natural Digital Printing. Sistem basis data ini digunakan untuk mengelola data pelanggan, karyawan/kasir, barang cetak, serta transaksi penjualan secara terstruktur menggunakan konsep basis data relasional dan bahasa SQL. Fokus utama proyek ini adalah pada perancangan database, relasi tabel, serta implementasi query SQL, tanpa pengembangan antarmuka aplikasi.
+# Latar Belakang
+Natural Digital Printing membutuhkan sistem basis data untuk
+mengelola data pelanggan, karyawan, barang, serta transaksi
+penjualan secara terstruktur dan akurat. Pengelolaan data yang
+baik akan meminimalkan kesalahan pencatatan dan
+mempermudah pembuatan laporan.
 # Tolls Yang Digunakan
   1. DBMS : MYSQL
   2. Bahasa Query : SQL
