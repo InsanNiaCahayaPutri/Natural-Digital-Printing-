@@ -29,7 +29,10 @@ Proyek ini merupakan tugas mata kuliah Pemrograman Basis Data yang bertujuan unt
   # Menjalankan Program
     1. Buka file SQL yang sudah dibuat (Klik File => Open SQL script
     2. Blok script yang ingin dieksekusi lalu Klik Execute (kilat)
-    3. Hasil eksekusi akan muncul pada Result Grid di bagian bawah.
+    3. Hasil eksekusi akan muncul pada Result Grid di bagian bawah
+  # Implementasi Database
+  <img width="1202" height="278" alt="image" src="https://github.com/user-attachments/assets/0987a8da-4f09-473f-ab47-5dc81db93e7a" />
+
 
 # Nama Anggota Kelompok
   1. Insan Nia Cahaya Putri
