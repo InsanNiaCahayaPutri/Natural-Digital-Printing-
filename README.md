@@ -32,6 +32,23 @@ Proyek ini merupakan tugas mata kuliah Pemrograman Basis Data yang bertujuan unt
     3. Hasil eksekusi akan muncul pada Result Grid di bagian bawah
   # Implementasi Database
   <img width="1202" height="278" alt="image" src="https://github.com/user-attachments/assets/0987a8da-4f09-473f-ab47-5dc81db93e7a" />
+  Implementasi basis data
+dilakukan menggunakan MySQL
+dan MySQL Workbench.
+Pembuatan tabel dilengkapi
+dengan Primary Key dan
+Foreign Key untuk menjaga
+integritas data.
+# Entity Relationship Diagram
+  <img width="971" height="673" alt="image" src="https://github.com/user-attachments/assets/daffecc1-edfe-427a-aab8-826eafd75a6f" />
+  Perancangan basis data dilakukan
+menggunakan ERD dengan entitas
+utama yaitu Pelanggan, Karyawan,
+Kasir, Barang, Transaksi, dan Order.
+Relasi antar entitas dirancang untuk
+mendukung proses transaksi
+penjualan.
+
 
 
 # Nama Anggota Kelompok
