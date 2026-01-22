@@ -39,6 +39,7 @@ Pembuatan tabel dilengkapi
 dengan Primary Key dan
 Foreign Key untuk menjaga
 integritas data.
+
 # Entity Relationship Diagram
   <img width="971" height="673" alt="image" src="https://github.com/user-attachments/assets/daffecc1-edfe-427a-aab8-826eafd75a6f" />
   Perancangan basis data dilakukan
